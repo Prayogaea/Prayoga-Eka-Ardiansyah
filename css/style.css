@@ -3,10 +3,6 @@
 /*  General Styling
 /*-----------------------------------------------------------------------------------*/
 
-*{
-  overflow-x: idden;
-}
-
 html{scroll-behavior: smooth;}
 
 body {
